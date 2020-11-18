@@ -28,4 +28,4 @@
 
 ## API Documentation
 
-- <https://documenter.getpostman.com/view/10639688/TVKJyvMh>
+- <https://documenter.getpostman.com/view/10639688/TVKJyvMf>
