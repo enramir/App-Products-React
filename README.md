@@ -1,4 +1,4 @@
-# ReactApp of my TFG in production deployed in Heroku [![Build Status](https://travis-ci.org/enramir/App-React-TFG.svg?branch=master)](https://travis-ci.org/enramir/App-React-TFG)
+# ReactApp of my TFG in production deployed in Heroku [![Build Status](https://travis-ci.org/enramir/App-Products-React.svg?branch=master)](https://travis-ci.org/enramir/App-Products-React)
 
 ## Instructions of deploy
 
